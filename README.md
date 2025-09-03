@@ -14,10 +14,10 @@
 ## 📌 Project Overview
 This project implements a **real-time ETL data pipeline** for the healthcare domain, designed to monitor and analyze **patient flow across hospital departments** using **Azure cloud services**. The pipeline performs:
 
-**Data Ingestion**: Captures and streams real-time patient event data from multiple sources.
-**Data Transformation & Processin**g: Utilizes Databricks with PySpark for scalable data cleansing, enrichment, and aggregation.
-**Data Loading & Storage**: Loads curated datasets into Azure Synapse Analytics (SQL Pool) for advanced analytics and reporting.
-The solution supports low-latency processing, scalable architecture, and integration with BI tools for visualization and actionable insights.
+- **Data Ingestion**: Captures and streams real-time patient event data from multiple sources.
+- **Data Transformation & Processin**g: Utilizes Databricks with PySpark for scalable data cleansing, enrichment, and aggregation.
+- **Data Loading & Storage**: Loads curated datasets into Azure Synapse Analytics (SQL Pool) for advanced analytics and reporting.
+  The solution supports low-latency processing, scalable architecture, and integration with BI tools for visualization and actionable insights.
 
 ---
 
